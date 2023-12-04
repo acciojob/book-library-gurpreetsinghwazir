@@ -2,7 +2,26 @@ body{
 	background: #f8f8f8;
 }
 .book{
-	text-align:center;
+	text-align: center;
 	background: #777777;
-	
+		
 }
+
+.text{
+	text-align: left;
+	margin: 20px;
+} 
+
+button{
+	background:#2ecc71;
+	color: white;
+	border: 1px none;
+	width: 90%;
+	padding: 10px;
+	border-radius: 4px;
+	margin: 20px;
+}
+
+
+
+
