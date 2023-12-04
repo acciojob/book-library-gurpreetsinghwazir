@@ -5,9 +5,9 @@ body{
 }
 .book-library{
 	text-align: center;
-	background: #777777;
+	background: #f1f1f1;
 	margin: 20px;
-	 box-shadow: 3px 3px 3px #777777;
+	 box-shadow: 3px 3px 3px #f1f1f1;
 
 }
 
@@ -28,7 +28,7 @@ button{
 }
 
 .book{
-	padding-top:20px;
+	padding-top:10px;
 }
 
 
