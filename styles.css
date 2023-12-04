@@ -1,12 +1,13 @@
 body{
-	background: #f8f8f8;
+	background-color: #f8f8f8;
+	border-radius: 10px;
 
 }
 .book-library{
 	text-align: center;
 	background: #777777;
 	margin: 20px;
-	 box-shadow: 2px 2px 2px 2px #777777;
+	 box-shadow: 3px 3px 3px #777777;
 
 }
 
