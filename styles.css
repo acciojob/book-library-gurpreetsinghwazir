@@ -1,1 +1,8 @@
-/*  your css code here. If applicable */
+body{
+	background: #f8f8f8;
+}
+.book{
+	text-align:center;
+	background: #777777;
+	
+}
