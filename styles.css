@@ -1,20 +1,13 @@
 body{
 	background-color: #f8f8f8;
 	border-radius: 10px;
-
 }
 .book-library{
 	text-align: center;
-	background: #777777;
+	background: #ffffff;
 	margin: 20px;
-	 box-shadow: 3px 3px 3px #777777;
-
+	box-shadow: 3px 3px 3px #777777;
 }
-
-.text{
-	text-align: left;
-	padding-left: 20px;
-} 
 
 button{
 	background:#2ecc71;
@@ -27,9 +20,10 @@ button{
 	
 }
 
-.book{
-	padding-top:10px;
-	background: #ffffff
+.book{	
+	text-align: left;
+	background: #777777;
+	padding-left: 20px;
 }
 
 
