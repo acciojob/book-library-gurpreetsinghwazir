@@ -1,15 +1,39 @@
 body{
-	background-color: #f8f8f8;
+	background-color: #ffffff;
 	border-radius: 10px;
+}
+.book-library {
+background-color:#ffffff;
+	border-radius: 10px;
+	
+}
+.gg{
+	justify-content:center;
+	display: flex;
+}
+.book img{
+	margin-top: 25px;
 }
 .book{
 	text-align: center;
-	background: #777777;
+	background-color:#f8f8f8;
 	margin: 20px;
-	box-shadow: 3px 3px 3px #777777;
+	
+}
+.book h1{
+	margin-left: 25px;
+		display: flex;
+		justify-content: start;
+}
+.book cite{
+	margin-left: 25px;
+		display: flex;
+		  justify-content: start;
+		  color: #777777;
 }
 
-button{
+
+.book button{
 	background:#2ecc71;
 	color: white;
 	border: 1px none;
