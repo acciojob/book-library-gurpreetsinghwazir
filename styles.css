@@ -20,12 +20,12 @@ background-color:#ffffff;
 	margin: 20px;
 	
 }
-.book h1{
+.book h2{
 	margin-left: 25px;
 		display: flex;
 		justify-content: start;
 }
-.book cite{
+.book p{
 	margin-left: 25px;
 		display: flex;
 		  justify-content: start;
